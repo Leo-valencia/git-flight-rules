@@ -1102,7 +1102,7 @@ To rename a different (local) branch:
 (master)$ git branch -m old-name new-name
 ```
  To delete the `old-name` remote branch and push the `new-name` local branch:
- 
+
  ```sh
  (master)$ git push origin :old_name new_name
  ```
@@ -1977,6 +1977,8 @@ function Squash-Commits {
 ```
 
 # Other Resources
+
+*[First Orbital Class Rocket capable of reflight](https://www.spacex.com/vehicles/falcon-9/)
 
 ## Books
 
